@@ -1,0 +1,12 @@
+Como arquitectis de software  crear una solucion de machine learning
+en draw.io
+se tiene para el usuario en el front ingresar una imagen
+y el modelo debe clasificar esa imagen segun corresponde (Carro y moto)
+y responde la probabilidad de que sea carro o moto
+
+LO IMPORTANTE
+como se despliega en una arquitectura
+
+investigacion: Cual es o serian las buenas practica para la solucion del problema
+tener claro la solucion y hablar con el idioma especifico para esto para exponerlo a alguien que sepa de eso 
+diagrama coherente
