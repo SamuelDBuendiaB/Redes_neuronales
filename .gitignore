@@ -1,1 +1,8 @@
 .venv/
+
+# Ignorar imagenes de radiografias
+Radiografias/chest_xray
+
+# Apuntes
+text.txt
+
